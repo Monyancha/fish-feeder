@@ -8,3 +8,11 @@ Instruction:
 7. Connect your arduino to USB
 8. Tool >> Port >> Select your port for uploading
 9. Sketch >> Upload
+
+Material:
+1. soft clay
+2. nutella container & small canister
+3. empty tablet's glove
+4. straw
+5. arduino uno
+6. adafruit motor shield
